@@ -23,7 +23,7 @@ body {
     /*Inline elementiem transform nestrādā.*/
     display: inline-block;
     padding: 5px;
-    transform: 0.2s;
+    transition: all 0.2s ease-out;
 }
 
 .paragraph {
